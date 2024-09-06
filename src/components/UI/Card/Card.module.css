@@ -1,0 +1,6 @@
+.card {
+    background-color: var(--tint-70);
+    border-radius:8px;
+    /* padding: 1.6rem 3.2em; */
+    text-align: center;
+}

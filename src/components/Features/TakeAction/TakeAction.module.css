@@ -1,0 +1,12 @@
+.actionSection {
+    height: 50vh;
+    /* padding: 9.6rem; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--tint-80)
+}
+.actionCTA{
+    display: flex;
+    gap: 4.8rem;
+}

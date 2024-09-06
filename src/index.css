@@ -1,0 +1,38 @@
+:root {
+    --primary-col:#008000;
+    --secondary-col:#800080;
+    /* SHADES*/
+    --shade-10:#007300;
+    --shade-20:#006600;
+    --shade-30:#005a00;
+    --shade-40:#004d00;
+    --shade-50:#004000;
+    --shade-60:#003300;
+    --shade-70:#002600;
+    --shade-80:#001a00;
+    --shade-90:#000d00;
+    /* TINTS */
+    --tint-10:#1a8d1a;
+    --tint-20:#339933;
+    --tint-30:#4da64d;
+    --tint-40:#66b366;
+    --tint-50:#80c080;
+    --tint-60:#99cc99;
+    --tint-70:#b3d9b3;
+    --tint-80:#cce6cc;
+    --tint-90:#e6f2e6;
+}
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family:sans-serif;
+    background-color: #fafafa;
+    line-height: 1;
+    color: #444;
+}

@@ -1,0 +1,38 @@
+
+.hero {
+    background-color: #333;
+    height: 100vh;
+    position: relative;
+}
+.heroVideo {
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    position:absolute;
+    top:0;
+    left:0;
+}
+.heroOverlay {
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    color:#fff;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    padding-left:6.4rem;
+}
+.heroTitle {
+    font-size:5.2rem;
+    line-height:1.5;
+    color:var(--tint-80);
+    padding-bottom:4.8rem;
+}
+.heroCTA{
+    display:flex;
+    gap:3.6rem;
+}

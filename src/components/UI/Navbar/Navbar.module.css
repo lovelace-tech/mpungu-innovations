@@ -1,0 +1,26 @@
+
+.nav {
+    /* border: 2px solid var(--secondary-col); */
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: var(--tint-10);
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1.6rem 3.2rem;
+}
+.navLinks {
+    display:flex;
+    gap: 3.6rem;
+    padding-right:9.6rem;
+   
+    
+}
+.navList {
+    list-style-type:none;
+}
+
+.navLinks a {
+    text-decoration:none;
+    color:var(--tint-80);
+}

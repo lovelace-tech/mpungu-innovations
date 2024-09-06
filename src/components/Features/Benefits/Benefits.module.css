@@ -1,0 +1,38 @@
+
+.benefitSection {
+    padding: 9.6rem;
+    display: flex;
+    justify-content:center;
+}
+
+.benefitHeading {
+    font-size:5.2rem;
+    font-weight:700;
+    text-align: center;
+    padding-bottom: 9.6rem;
+}
+.benefitCardContainer {
+    display: flex;
+    justify-content: space-between;
+    gap: 2.4rem;
+}
+.benefitCard {
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+.benefitCardInfo {
+    padding: 2.4rem 0;
+}
+.cardImage {
+    width:100%;
+}
+.benefitCardContent {
+    font-size:2rem;
+    font-weight:700;
+    padding: 5.2rem 0;
+}
+.benefitCardHeading {
+    padding: 5.2rem 0;
+    font-size: 3.6rem;
+}

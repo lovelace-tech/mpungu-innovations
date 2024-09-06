@@ -1,0 +1,25 @@
+.problemContent {
+    display: flex;
+    gap:7.2rem;
+    align-items:center;
+    font-size:2rem;
+    line-height:1.3;
+}
+.right {
+    flex-direction:row-reverse;
+}
+.problemImage {
+    width: 50%;
+}
+.problemCopy {
+    line-height:1.5;
+}
+.wteStepWrapper {
+    display:flex;
+    flex-direction: column;
+    gap:9.6rem;
+}
+.wteStep {
+    font-size: 3.6rem;
+    text-align: center;
+}
